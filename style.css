@@ -46,3 +46,16 @@ body {
         width: 100%;
     }
 }
+@media screen and (min-width: 575px) and (max-width: 768px){
+    .content{
+        width: 100%;
+    }
+    .sideboard{
+        width: 100%;
+        background-color:rgb(223, 174, 14);
+    }
+    .banner{
+        background-color: lightskyblue;
+    }
+}
+    
